@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **something with you!**
 
-- 👨‍💻 All of my projects are available at [www.steverepdev.com](www.steverepdev.com)
+- 👨‍💻 All of my projects are available at [steverepdev.com](https://steverepdev.com/)
 
 - 💬 Ask me about **HTML,CSS, JavaScript, web site performance, Site creation**
 
