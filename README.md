@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **Client Sites, API Apps, CodeWars**
 
-- 🌱 I’m currently learning **Object Oriented Programing, Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **object-oriented programming, Node.js, Express, MongoDB**
 
 - 👯 I’m looking to collaborate on **something with you!**
 
 - 👨‍💻 All of my projects are available at [steverepdev.com](https://steverepdev.com/)
 
-- 💬 Ask me about **HTML,CSS, JavaScript, web site performance, Site creation**
+- 💬 Ask me about **HTML, CSS, JavaScript, website performance, and ite creation**
 
 - 📫 How to reach me **steverepdev@gmail.com**
 
-- ⚡ Fun fact **I like to write sketch comedy**
+- ⚡ Fun fact **I like to write sketch comedy, play D&D, pet cats, and climb rocks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
