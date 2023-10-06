@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Replogle</h1>
 <h3 align="center">A passionate full stack software developer from Oregon</h3>
 
-- 🔭 I’m currently working on **Client Sites, API Apps, CodeWars**
+- 🔭 I’m currently working on **Client Sites, API Apps, CodeWars everyyyy day**
 
 - 🌱 I’m currently learning **object-oriented programming, Node.js, Express, MongoDB**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [steverepdev.com](https://steverepdev.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, website performance, and ite creation**
+- 💬 Ask me about **HTML, CSS, JavaScript, website performance, and website creation**
 
 - 📫 How to reach me **steverepdev@gmail.com**
 
