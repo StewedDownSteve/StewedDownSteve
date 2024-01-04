@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Steve Replogle</h1>
 <h3 align="center">A passionate full stack software developer from Oregon</h3>
 
-- 🔭 I’m currently working on **Client Sites, API Apps, CodeWars everyyyy day**
+- 🔭 I’m currently working on **Client Sites, Full Stack Apps, CodeWars everyyyy day**
 
-- 🌱 I’m currently learning **object-oriented programming, Node.js, Express, MongoDB**
+- 🌱 I’m currently learning **React, MySQL, creating my own apps**
 
 - 👯 I’m looking to collaborate on **something with you!**
 
 - 👨‍💻 All of my projects are available at [steverepdev.com](https://steverepdev.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, website performance, and website creation**
+- 💬 Ask me about **HTML, CSS, JavaScript, website performance, and full stack apps**
 
 - 📫 How to reach me **steverepdev@gmail.com**
 
