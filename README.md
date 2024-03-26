@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steve Replogle</h1>
 <h3 align="center">A passionate full stack software developer from Oregon</h3>
 
-- 🔭 I’m currently working on [Freelancing Projects, CRUD Apps, Algos & Database](https://github.com/StewedDownSteve/TicketTrackerFullStack)
+- 🔭 I’m currently working on [Freelancing Projects, CRUD Apps, Algos & Database]
 
-- 🌱 I’m currently learning **MVC, EJS, Data Structures**
+- 🌱 I’m currently learning **Godot, Data Structures**
 
 - 👯 I’m looking to collaborate on **something with you!**
 
