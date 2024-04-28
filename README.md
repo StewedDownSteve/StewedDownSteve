@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Replogle</h1>
 <h3 align="center">A passionate full stack software developer from Oregon</h3>
 
-- 🔭 I’m currently working on [Freelancing Projects, CRUD Apps, Algos & Database]
+- 🔭 I’m currently working on [A fundraising app, a GoDot 2d video game, freelance client's sites]
 
 - 🌱 I’m currently learning **Godot, Data Structures**
 
