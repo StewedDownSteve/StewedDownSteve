@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for help with **meeting more people in the community.**
 
-- 👨‍💻 All of my projects are available at [steverepdev.com](https://steverepdev.com/)
+- 👨‍💻 All of my personal projects are available at [steverepdev.com](https://steverepdev.com/)
+
+-  All of my freelnacing projects are available at [Good & Local Web Studio](https://goodlocalwebstudio.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node, MongoDB,Responsive web sites**
 
