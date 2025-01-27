@@ -13,7 +13,7 @@
 
 - 📝 I post updates on LinkedIn [www.linkedin.com/in/stevereplogle1](www.linkedin.com/in/stevereplogle1)
 
-- 💬 Ask me about **responsive websites, front-end development, video games**
+- 💬 Ask me about **responsive websites, front-end development, on page SEO**
 
 - 📫 How to reach me **steverepdev@gmail.com**
 
